@@ -1,2 +1,2 @@
-# petcaria
-&lt;a href="https://assets.petcaria.com">https://assets.petcaria.com&lt;/a>
+# Petcaria
+https://assets.petcaria.com
